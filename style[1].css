@@ -1,0 +1,6 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial;display:flex;flex-direction:column;align-items:center;background:#87CEEB;height:100vh}
+#ui{position:absolute;top:10px;left:10px;color:#fff;z-index:10;text-shadow:0 1px 2px rgba(0,0,0,0.5)}
+#score{margin-top:6px;font-weight:700}
+#startBtn{margin-top:6px;padding:6px 10px;border-radius:6px;border:none;background:#ff9800;color:#fff;cursor:pointer}
+canvas{display:block;background:linear-gradient(#6b8b3b,#3b6b2b);width:100vw;height:100vh}
